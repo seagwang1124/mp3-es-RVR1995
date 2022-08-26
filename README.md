@@ -7,3 +7,7 @@
 5. [Lectura De La Biblia - day 05-es](https://seagwang1124.github.io/mp3-es/day05-es.mp3)
 6. [Lectura De La Biblia - day 06-es](https://seagwang1124.github.io/mp3-es/day06-es.mp3)
 7. [Lectura De La Biblia - day 07-es](https://seagwang1124.github.io/mp3-es/day07-es.mp3)
+4. [Lectura De La Biblia - day 08-es](https://seagwang1124.github.io/mp3-es/day08-es.mp3)
+5. [Lectura De La Biblia - day 09-es](https://seagwang1124.github.io/mp3-es/day09-es.mp3)
+6. [Lectura De La Biblia - day 010-es](https://seagwang1124.github.io/mp3-es/day10-es.mp3)
+7. [Lectura De La Biblia - day 011-es](https://seagwang1124.github.io/mp3-es/day11-es.mp3)
