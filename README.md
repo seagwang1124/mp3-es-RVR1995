@@ -19,3 +19,6 @@
 17. [Lectura De La Biblia - day 17-es](https://seagwang1124.github.io/mp3-es/day17-es.mp3)
 18. [Lectura De La Biblia - day 18-es](https://seagwang1124.github.io/mp3-es/day18-es.mp3)
 19. [Lectura De La Biblia - day 19-es](https://seagwang1124.github.io/mp3-es/day19-es.mp3)
+20. [Lectura De La Biblia - day 20-es](https://seagwang1124.github.io/mp3-es/day20-es.mp3)
+21. [Lectura De La Biblia - day 21-es](https://seagwang1124.github.io/mp3-es/day21-es.mp3)
+22. [Lectura De La Biblia - day 22-es](https://seagwang1124.github.io/mp3-es/day22-es.mp3)
